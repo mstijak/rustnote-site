@@ -6,7 +6,7 @@
 
 [std::fmt Documentation](https://doc.rust-lang.org/std/fmt/)
 
-The `Rust 1.58.0` update today bought a very nice addition, this is a feature that's often missed by the growing number of dynamic language users that are giving Rust a try, and it's now available in stable!
+The `Rust 1.58.0` update today brought a very nice addition, this is a feature that's often missed by the growing number of dynamic language users that are giving Rust a try, and it's now available in stable!
 
 It allows you to put variables from the outside scope directly into format string curly braces:
 
